@@ -1,0 +1,2 @@
+Simple Hospital Management System is based on the concept of managing a patient’s record of a hospital. There’s no login system available for this system, the user can freely use its feature.
+This mini project contains limited features, but the essential one. To run this project you can use Dev C++ or Code Blocks IDE.
